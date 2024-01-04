@@ -1,2 +1,2 @@
 # app-demo
-this is my first git repssitory
+this is my first git repository
